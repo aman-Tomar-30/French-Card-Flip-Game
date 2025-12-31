@@ -42,16 +42,6 @@ The game focuses on **active recall**, which helps in long-term memory retention
 
 ## 🚀 Getting Started
 
-### 🔧 Prerequisites
-
-Make sure you have:
-- Python **3.7 or above**
-- pip package manager installed
-
----
-
-### 📥 Installation
-
 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/aman-Tomar-30/French-Card-Flip-Game.git
